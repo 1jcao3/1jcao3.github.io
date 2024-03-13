@@ -5,6 +5,8 @@
         <PrincipalHeader></PrincipalHeader>
       
    <firstSection></firstSection>
+   <sectionTwo>
+   </sectionTwo>
     
   
        <footerOne></footerOne>
@@ -14,6 +16,7 @@
   
   <script setup>
   import firstSection from '@/components/codePage/firstSection.vue';
+import sectionTwo from '@/components/codePage/sectionTwo.vue';
 import PrincipalHeader from '@/components/principal/PrincipalHeader.vue';
   import footerOne from '@/components/principal/footerOne.vue';
 

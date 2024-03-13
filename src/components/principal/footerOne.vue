@@ -3,7 +3,7 @@
   <footer>
 
     <div class="container">
-      <h3>Contactame</h3>
+      <h3>Contac me!</h3>
 
       <a href="mailto:correo@ejemplo.com?subject=Asunto del correo">juliankamilo6@gmail.com</a>
 
