@@ -16,7 +16,7 @@
                  I create some beats, so if you want to see more, click here.
             </p>
 
-            <button class="boton"><router-link to="/" class="boton1">Go</router-link></button>
+            <button class="boton"><router-link to="music" class="boton1">Go</router-link></button>
         </div>
     </div>
 </div>

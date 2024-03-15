@@ -4,7 +4,7 @@
         <h1> <a href="/">JUCA</a></h1>
         <nav>
             
-                <router-link to="home" class="router">
+                <router-link to="sport" class="router">
                     <h1>Sport</h1>
                 </router-link>
             
@@ -14,7 +14,7 @@
                 </router-link>
            
             
-                <router-link to="home" class="router">
+                <router-link to="music" class="router">
                     <h1>Music</h1>
                 </router-link>
             

@@ -14,7 +14,7 @@
             <p>Sport is one important thing in my life. I do it for health and because I enjoy it.
                  My favorite sport is soccer, so you can watch more things like that here</p>
 
-            <button class="boton"><router-link to="/" class="boton1">Go</router-link></button>
+            <button class="boton"><router-link to="sport" class="boton1">Go</router-link></button>
         </div>
     </div>
 </div>

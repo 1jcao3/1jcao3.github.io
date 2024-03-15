@@ -1,6 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import CodeView from '@/views/CodeView.vue'
+import SportView from '@/views/SportView.vue'
+import MusicView from '@/views/MusicView.vue'
 
 const routes = [
   {
@@ -14,6 +16,18 @@ const routes = [
     path:'/code',
     name: 'Code',
     component: CodeView,
+  },
+  {
+
+    path:'/sport',
+    name:'sport',
+    component: SportView,
+  },
+  {
+
+    path:'/music',
+    name:'music',
+    component: MusicView,
   }
  
 ]
